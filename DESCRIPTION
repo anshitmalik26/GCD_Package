@@ -1,0 +1,10 @@
+Package: gcdRS
+Type: Package
+Title: Great Circle Distance
+Version: 0.1.0
+Author: Anshit Malik
+Maintainer: Anshit Malik <anshit.malik@rightship.com>
+Description: Calculates great circle distance between 2 points
+License: RightShip
+Encoding: UTF-8
+LazyData: true
